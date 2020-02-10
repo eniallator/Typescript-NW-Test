@@ -1,7 +1,4 @@
 {
   "name": "test-app",
-  "main": "index.html",
-  "window": {
-    "toolbar": true
-  }
+  "main": "index.html"
 }
