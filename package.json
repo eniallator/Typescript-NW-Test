@@ -31,6 +31,7 @@
   },
   "nodemonConfig": {
     "exec": "npm run build",
+    "ext": "ts, html, json",
     "ignore": [
       "dist/**.*"
     ]
